@@ -2,4 +2,5 @@
 deps
 *.o
 *.beam
-*.plt
+ebin/*
+.*
